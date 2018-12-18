@@ -40,11 +40,11 @@
 ---
 @title[The Arithmetic Mean]
 
-@snap[north]
-$$
+`
 \xbar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_{i}
-$$
-@snapend
+`
+
+
 ---?image=assets/img/Lao-Tzu.resized.jpg
 
 @snap[north span-100 headline]
