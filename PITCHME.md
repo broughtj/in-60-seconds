@@ -39,12 +39,12 @@
 
 ---
 
-##### The Cauchy-Schwarz Inequality
+##### The Arithmetic Mean 
 
 <br>
 
 `\[
-\xbar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_{i}
+\bar{x} = \frac{1}{n} \sum\limits_{i=1}^{n} x_{i}
 \]`
 
 
