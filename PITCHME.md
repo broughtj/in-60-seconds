@@ -37,7 +37,7 @@
 @img[shadow](assets/img/conference.png)
 @snapend
 
----?image=assets/img/Lao-Tzu.jpg
+---?image=assets/img/Lao-Tzu.resized.jpg
 
 @snap[north span-100 headline]
 ## Now It's Your Turn
