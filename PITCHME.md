@@ -48,6 +48,41 @@
 \]`
 
 
+---
+
+##### An HTML Table
+
+<br>
+
+<table summary="Color names for black, white, red, blue, green, yellow in multiple languages"> 
+
+<caption> Color names in multiple languages</caption> 
+
+<tr> 
+     <th scope="col"> Color </th> 
+     <th scope="col"> Spanish </th> 
+     <th scope="col"> French </th>
+     <th scope="col"> Irish </th> 
+     <th scope="col"> Welsh </th>
+
+</tr> 
+<tr> 
+    <th scope="row"> Black </th> 
+    <td> negro </td> 
+    <td> noir </td>
+    <td> dubh </td>
+    <td> du </td>
+</tr> 
+<tr> 
+     <th scope="row"> White </th>
+     <td> blanco </td> 
+     <td> blanc </td>
+     <td> bán </td> 
+     <td> gwyn </td>
+</tr> 
+</table> 
+
+
 ---?image=assets/img/Lao-Tzu.resized.jpg
 
 @snap[north span-100 headline]
